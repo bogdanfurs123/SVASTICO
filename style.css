@@ -5,7 +5,9 @@
     height: 500px;
 }
 #section2{
-
+    background: url(images\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #heros_act {
     width: 500px;
